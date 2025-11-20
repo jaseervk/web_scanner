@@ -1,19 +1,19 @@
-# Sqlmap
-# This toool is automate tags of sqlmap tool
+# Web Scanner
+# This tool is automate tags of sqlmap tool
 # Tags include:
 --batch --forms --dbs --dump
 
 # Download the script
-$ git clone https://github.com/jaseervk/sqlmap.git
+$ git clone https://github.com/jaseervk/web_scanner.git
 
 # Change directory
-$ cd sqlmap
+$ cd web_scanner
 
 # Change permisiion
-$ chmod +x sqlmap.sh
+$ chmod +x web_scanner.sh
 
 # Run script
-$ ./sqlmap.sh
+$ ./web_scanner.sh
 
 # Enter the url
 $ url
